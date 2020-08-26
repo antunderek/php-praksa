@@ -1,0 +1,10 @@
+{
+	"autoload": {
+		"psr-4": {
+			"Codecourse\\": "app"
+		}
+	},
+	"require": {
+		"nesbot/carbon": "^2.38"
+	}
+}
